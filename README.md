@@ -11,9 +11,6 @@ from [Think Python 2nd
 Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B.
 Downey.
 
-This file will become your README and also the index of your
-documentation.
-
 ## Install
 
 Install using:
